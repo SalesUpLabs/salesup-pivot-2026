@@ -25,7 +25,7 @@ Cut to **2 initiatives**, only proven channels, no parallel build experiments.
 
 # 1️⃣ Outbound Pipeline Pod — Vertical Mode (India)
 
-## What we sell (all proven, already operating)
+## What we sell (all proven on our own funnel, already operating)
 
 | Channel | Tool | What we operate |
 |---|---|---|
@@ -33,6 +33,7 @@ Cut to **2 initiatives**, only proven channels, no parallel build experiments.
 | Cold email | Instantly + Hatch + Claude | Domain warmup → AI personalization → deliverability → reply triage |
 | LinkedIn outbound | HeyReach | Connection sequences + DM nurtures + reply triage |
 | AI calling | CallKaro | Tier-2/3 dialing + inbound qualifier + post-form follow-up |
+| **Paid ads** | **Meta + Google + LinkedIn + AI Creative Lab** | **Pixel + LPs + 50+ creatives/wk + bid mgmt + daily perf review + LP CRO + monthly attribution** |
 | RevOps | Internal portal + Sybill + Blitz | Lead scoring + routing + CRM hygiene + dashboards + MBR |
 
 ## 4 verticals to volume-prospect
@@ -136,6 +137,55 @@ Cut to **2 initiatives**, only proven channels, no parallel build experiments.
 | 5 | Cross-sell on repeat purchase | Single-SKU customers | AI WA recs → checkout link | AOV +15-25% |
 | 6 | Winback dormant customers | 60+ days, written off | AI WA + AI Call with personalized offer | 8-12% reactivation |
 | 7 | AI inbound qualifier (DM/WA) | DMs pile up, founders answer at midnight | AI WA chatbot + routes high-intent | 80% inbound deflection |
+
+## Ads Management — standalone or bundled
+
+**The opening:** Many CMOs already have an outbound team but want a sharper ads partner. Ads becomes our **wedge SKU** — easy to start, expands to full pod once we prove ROI.
+
+### Bundled vs standalone
+
+| Mode | When | Pricing |
+|---|---|---|
+| **Bundled (default in Pipeline Pod)** | Client buying full pod | Ads mgmt % included in component config (already in 4 vertical configs above) |
+| **Standalone Ads Mgmt** | Client only wants ads partner | 5-25% of ad spend, min ₹75K mgmt fee, min ₹2L/mo ad spend, **client pays media direct** |
+
+### Ads management bands
+
+| Ad spend / mo | Standard % | Bumps |
+|---|---|---|
+| ₹2-5L | 20-25% | Lower volume → higher % |
+| ₹5-15L | 12-18% | Standard mid-market |
+| ₹15-50L | 8-12% | Volume discount |
+| ₹50L+ | 5-8% | Volume discount |
+| Multi-platform / heavy creative / ABM / multi-geo | +3-5% | |
+
+### What's IN the Ads Pod (concrete deliverables)
+
+| Cadence | Deliverable |
+|---|---|
+| **Wk 1 — Setup** | ICP + audience research · Pixel + conversion events · 1 LP per campaign · 20+ creative variants · Bid strategy + budget pacing · Attribution stack (UTMs, GTM, GA4) |
+| **Daily** | Bid mgmt · Budget pacing · Anomaly alerts (CPL spike, frequency cap) · Creative ON/OFF based on perf |
+| **Weekly** | Top + bottom 3 ads review · 20-50 new AI creatives launched · Audience tuning · LP CRO tweaks · Weekly perf report |
+| **Monthly** | ROAS / CPA / CPL review · Scale-up decisions · Kill underperformers · Strategy memo |
+| **Quarterly** | Channel-mix re-evaluation · LTV/CAC analysis · New audience experiments · Creative refresh sprint |
+
+**Platforms:** Meta · Google Search · Google Display · YouTube · LinkedIn (ABM) · WhatsApp Click-to-Chat · TikTok (D2C only).
+
+### Ramp plan (Abhishek's flag: "we've only run ads on ourselves so far")
+
+**30-day internal proof phase (May 8 - Jun 7):** Yash + Arsh + tech team run ads for SalesUp's own outbound funnel. Document everything: setup, creatives, perf, learnings, attribution. By Jun 7 = 30-day case study live with our own numbers ("here's what we did for ourselves: ₹X spend → Y meetings → Z pipeline").
+
+**External rollout (Jun 8+):** Ads sold to first client in BFSI or EdTech vertical (lowest-risk verticals — most ad maturity, biggest ad budgets). Use SalesUp case study + vertical playbook.
+
+### Ads-only Q2 target
+
+| | Committed | Stretch |
+|---|---|---|
+| Standalone ads-only logos | 0 (bundled in Pipeline Pod closes) | 1 (₹75K-1.5L margin/mo) |
+
+(Standalone ads is upside on top of the 2 Pipeline Pod closes — same buyer, smaller wedge SKU.)
+
+---
 
 ## Pricing options — A/B in market
 
@@ -251,8 +301,9 @@ Qualified specialist pool delivered + handoff to client onboarding
 - US Pipeline Plan pilot (US/EU/AU expansion deferred to Q3)
 - AEO Citation Index (micro product build)
 - Attribution + CRM Hygiene tool (micro product build)
-- Ads-as-a-service (only run for ourselves; not externally proven)
 - Build.ai expansion (case study only, no recurring revenue)
+
+**Ads-as-a-service is now IN** — bundled by default in Pipeline Pod, with standalone ads-only as wedge SKU. 30-day internal proof phase (May 8 - Jun 7) before external sale.
 
 All revisited Q3 once Initiatives 1 + 2 prove out.
 
@@ -263,6 +314,7 @@ All revisited Q3 once Initiatives 1 + 2 prove out.
 | Wk | Owner | Deliverable |
 |---|---|---|
 | 1 (May 8-14) | Yash | Lock pricing per this doc; rewrite homepage hero + 4 pillars |
+| 1 | Yash + Arsh | **Kick off internal ads proof phase** (Meta + Google + LinkedIn for SalesUp's own funnel) |
 | 2 (May 15-21) | Yash + Miskat | 4 vertical landing pages live (BFSI / EdTech / RE / D2C) |
 | 2 | Abhishek | Workflow Library v0 — templates for 28 workflows (7 per segment × 4) |
 | 2 | Yash + Miskat | Build.ai case study 1-pager live |
@@ -271,6 +323,7 @@ All revisited Q3 once Initiatives 1 + 2 prove out.
 | 3 | Abhishek + Arsh | Ads pod ops playbook + LP factory template |
 | 4 (May 29-Jun 4) | Team | 400 LinkedIn outbound across 4 verticals |
 | 4 | Yash | First webinar pitched (BFSI lead) |
+| 4-5 (May 29-Jun 7) | Yash + Arsh | **Wrap internal ads proof phase → publish 30-day case study with SalesUp's own numbers** |
 
 ---
 
