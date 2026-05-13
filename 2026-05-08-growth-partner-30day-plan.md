@@ -61,7 +61,7 @@ Each is sold standalone (Plug-In mode) OR bundled into Channel / Stack tiers.
 ### Ads workflows
 | Workflow | Plug-In SP | Margin |
 |---|---|---|
-| AI Creative Lab — 50+ variants/wk | ₹75K/mo | ₹35K |
+| AI Creative Lab (image + video ad variants) — 50+ variants/wk | ₹75K/mo | ₹35K |
 | LP factory — unlimited LPs | ₹50K/mo | ₹25K |
 | Attribution + UTM setup | ₹40K one-time + ₹25K/mo | ₹15K/mo |
 | Audience research + buildouts | ₹30K/mo | ₹12K |

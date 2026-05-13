@@ -81,7 +81,7 @@ These are bundled into Starter / Growth / Scale tiers with **clear volume caps**
 | **AI Cold Email Engine** | Domains + warmed inboxes. Bundle limit = inbox count (see pricing) |
 | **AI WhatsApp Sales Agent** | WA flows. Bundle limit = utility + marketing msgs/mo. Workflow setup = FREE inside bundle |
 | **Performance Ads Pod** | Meta/Google/LinkedIn campaign mgmt. Bundle = number of platforms |
-| **AI Ad Creative Lab** | AI-generated ad variations weekly. Bundle = volume of creatives/wk |
+| **AI Ad Creative Lab** | AI-generated ad variations (image + video) weekly. Bundle = volume of creatives/wk |
 | **Landing Pages** | Conversion-optimized LPs. Bundle limit = LPs/mo |
 | **Sales Process Design** | Stages, handoffs, SLAs, scripts. Free deliverable in Growth+ tiers (one-time at Wk1) |
 | **RevOps + Reporting** | CRM workflows, scoring, routing, dashboards, MBR. Bundled in Growth+ |
